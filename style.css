@@ -1,0 +1,48 @@
+
+A {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+#timer {
+    float: right;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.intro-container {
+    margin-left: 300px;
+}
+
+#question-container {
+    margin-left: 300px;
+}  
+
+.end-container {
+    margin-left: 300px;
+}
+
+.btn {
+    background-color: #7f04f9;
+    height: 40px;
+    width: 100px;
+    margin-bottom: 2px;
+    display: block;
+    color: white
+  }
+#startBtn {
+    margin-left: 250px;
+} 
+  
+.card-body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.card-title {
+    text-align: center;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.hidden {
+    display: none;
+}
