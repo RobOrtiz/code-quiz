@@ -106,7 +106,7 @@ function askQuestion(){
     choiceD.innerHTML = q.choiceD;
     runningQuestion++;
 }
-    
+    console.log(askQuestion);
 start.addEventListener("click", askQuestion);
 
 // Get answer
